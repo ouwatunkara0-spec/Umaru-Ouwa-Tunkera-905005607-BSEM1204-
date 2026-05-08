@@ -5,8 +5,8 @@ This project contains a personal web page built using HTML. It includes informat
 
 ## Student Information
 - **Name**: UMARU OUWA TUNKARA
-- **Program**: BSEM
-- **Semester**: 4
+- **Program**: BSEM 1204
+- **Semester/Year**: 4/2
 - **ID**: 905005607
 
 ## Contents
